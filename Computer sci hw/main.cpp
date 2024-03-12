@@ -8,7 +8,7 @@ int main()
     int rock = 1;
     int paper = 2;
     int scissors = 3;
-    int h = 0;
+    int hh = 0;
     
     
     srand((unsigned) time(NULL));
